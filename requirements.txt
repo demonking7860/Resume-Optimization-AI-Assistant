@@ -1,15 +1,5 @@
-langchain-google-genai
-langchain-huggingface
-huggingface-hub
 streamlit
-pypdf2
+pymupdf  # PyMuPDF (Fitz) for PDF processing
 langchain
-python-dotenv
-faiss-cpu
-numpy 
-pandas 
-requests
-python-docx
-sentence-transformers
-python-dotenv
-pymupdf
+langchain-google-genai
+google-generativeai  # Gemini API support
