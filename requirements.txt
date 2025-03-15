@@ -12,3 +12,4 @@ requests
 python-docx
 sentence-transformers
 python-dotenv
+pymupdf
