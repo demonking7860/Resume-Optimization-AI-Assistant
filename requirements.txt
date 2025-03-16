@@ -1,4 +1,4 @@
-
+streamlit
 pymupdf  # PyMuPDF (Fitz) for PDF processing
 langchain
 langchain-google-genai
